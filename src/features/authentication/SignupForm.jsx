@@ -4,7 +4,7 @@ import Form from "../../ui/Form";
 import FormRow from "../../ui/FormRow";
 import Input from "../../ui/Input";
 import { useEffect } from "react";
-import { useSignup } from "./useSignUp";
+import { useSignup } from "./useSignup.js";
 
 // Email regex: /\S+@\S+\.\S+/
 
